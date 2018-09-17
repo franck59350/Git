@@ -8,4 +8,4 @@ exercices
 hosselet = ohhhh ce laid 
 
 ```js
-alert('Tu t'amuses?');
+alert('Coucou, tu veux voir...');
